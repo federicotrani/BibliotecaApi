@@ -1,0 +1,5 @@
+++ seguridad webapi net5 + jwt
+https://bravedeveloper.com/2021/08/18/como-aplicar-seguridad-a-tu-api-mediante-json-web-token-jwt/
+
+++ api net 5 + entityframework core
+https://bravedeveloper.com/2021/07/20/entendiendo-los-web-api-con-net-core-y-entity-framework/
